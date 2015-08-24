@@ -181,7 +181,6 @@
 
 
 
-
             <dependency>
                 <groupId>javax.servlet</groupId>
                 <artifactId>servlet-api</artifactId>
@@ -255,15 +254,28 @@
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-compiler-plugin</artifactId>
                     <configuration>
-                        <source>1.6</source>
-                        <target>1.6</target>
-                        <testSource>1.6</testSource>
-                        <testTarget>1.6</testTarget>
+                        <source>1.7</source>
+                        <target>1.7</target>
+                        <testSource>1.7</testSource>
+                        <testTarget>1.7</testTarget>
                         <showWarnings>true</showWarnings>
                     </configuration>
                 </plugin>
             </plugins>
         </pluginManagement>
     </build>
+
+
+
+    <distributionManagement>
+        <repository>
+            <id>releases</id>
+            <url>http://172.16.220.240:8082/content/repositories/releases</url>
+        </repository>
+        <snapshotRepository>
+            <id>snapshots</id>
+            <url>http://172.16.220.240:8082/content/repositories/snapshots</url>
+        </snapshotRepository>
+    </distributionManagement>
 
 </project>

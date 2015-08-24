@@ -1,4 +1,4 @@
-package com.zhiyi.massage.api;
+package com.zdmoney.integral.api.facade;
 
 public interface I${bean.capitalizeName}FacadeService {
 
