@@ -5,16 +5,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>chanedi</groupId>
-    <artifactId>QuickProject</artifactId>
+    <artifactId>zdhd</artifactId>
     <packaging>pom</packaging>
     <version>1.0.17</version>
     <modules>
-        <module>QuickProject-Core</module>
-        <module>QuickProject-Generator</module>
-        <module>QuickProject-Util</module>
+        <module>zdhd-core</module>
+        <module>zdhd-generator</module>
+        <module>zdhd-util</module>
     </modules>
 
-    <url>https://github.com/chanedi/QuickProject</url>
     <licenses>
         <license>
             <name>The Apache Software License, Version 2.0</name>
@@ -35,12 +34,12 @@
         <dependencies>
             <dependency>
                 <groupId>chanedi</groupId>
-                <artifactId>QuickProject-Util</artifactId>
+                <artifactId>zdhd-util</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
                 <groupId>chanedi</groupId>
-                <artifactId>QuickProject-Core</artifactId>
+                <artifactId>zdhd-core</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
