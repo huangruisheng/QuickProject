@@ -9,7 +9,7 @@ import java.util.Date;
 @Table(name = "T_TGL_INTEGRAL_ORDER")
 public class IntegralOrder extends BaseEntity {
 
-    private static final long serialVersionUID = -1912533079615714857L;
+    private static final long serialVersionUID = 7736687037386411526L;
 
     private String accountId; // ??????ID
 
