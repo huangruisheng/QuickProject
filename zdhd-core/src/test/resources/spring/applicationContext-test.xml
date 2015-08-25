@@ -25,7 +25,7 @@
     </bean>
 
     <!-- session工厂 -->
-    <bean id="sqlSessionFactory" class="chanedi.dao.impl.mybatis.session.SqlSessionFactoryBean">
+    <bean id="sqlSessionFactory" class="com.zdmoney.zdhd.dao.impl.mybatis.session.SqlSessionFactoryBean">
         <property name="dataSource" ref="dataSource"/>
         <!-- <property name="configLocation" value="/mybatis/mybatis-config.xml"></property> -->
         <property name="mapperLocations">
@@ -41,9 +41,9 @@
         <property name="typeAliasesPackage" value="chanedi.model"/>
         <property name="plugins">
             <list>
-                <bean class="chanedi.dao.impl.mybatis.interceptor.PageInterceptor" />
-                <bean class="chanedi.dao.impl.mybatis.interceptor.SortListInterceptor" />
-                <bean class="chanedi.dao.impl.mybatis.interceptor.RowBoundsInterceptor" />
+                <bean class="com.zdmoney.zdhd.dao.impl.mybatis.interceptor.PageInterceptor" />
+                <bean class="com.zdmoney.zdhd.dao.impl.mybatis.interceptor.SortListInterceptor" />
+                <bean class="com.zdmoney.zdhd.dao.impl.mybatis.interceptor.RowBoundsInterceptor" />
             </list>
         </property>
     </bean>

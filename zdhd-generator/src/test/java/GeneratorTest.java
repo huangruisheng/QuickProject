@@ -1,6 +1,6 @@
-import chanedi.generator.FilesGenerator;
-import chanedi.generator.GlobalConfig;
-import chanedi.generator.exception.GlobalConfigException;
+import com.zdmoney.zdhd.generator.FilesGenerator;
+import com.zdmoney.zdhd.generator.GlobalConfig;
+import com.zdmoney.zdhd.generator.exception.GlobalConfigException;
 import junit.framework.TestCase;
 import org.junit.Test;
 
