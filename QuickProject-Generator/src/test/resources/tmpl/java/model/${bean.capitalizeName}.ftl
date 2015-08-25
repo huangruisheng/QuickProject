@@ -13,7 +13,6 @@ public class ${bean.capitalizeName} extends BaseEntity {
     <#list bean.properties as prop>
     private ${prop.type.java} ${prop.name}; <#if prop.comment??>// ${prop.comment}</#if>
 
-
     </#list>
 
 }
