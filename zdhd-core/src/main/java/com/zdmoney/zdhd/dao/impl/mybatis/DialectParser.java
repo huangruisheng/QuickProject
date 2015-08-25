@@ -8,7 +8,7 @@ import com.zdmoney.zdhd.enums.DBDialectType;
 import org.apache.ibatis.session.Configuration;
 
 /**
- * @author Chanedi
+ * @author com.zdmoney.zdhd
  */
 public class DialectParser {
 

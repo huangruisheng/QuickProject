@@ -50,7 +50,7 @@ import java.util.Properties;
  * 修改了Configuration。
  *
  * @see Configuration
- * @author Chanedi
+ * @author com.zdmoney.zdhd
  */
 public class XMLConfigBuilder extends BaseBuilder {
 

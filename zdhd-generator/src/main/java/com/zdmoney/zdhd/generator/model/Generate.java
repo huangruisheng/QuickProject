@@ -3,7 +3,7 @@ package com.zdmoney.zdhd.generator.model;
 import java.util.UUID;
 
 /**
- * @author Chanedi
+ * @author com.zdmoney.zdhd
  */
 public final class Generate {
 

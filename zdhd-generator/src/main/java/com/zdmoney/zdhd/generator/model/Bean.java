@@ -9,7 +9,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author Chanedi
+ * @author com.zdmoney.zdhd
  */
 public class Bean {
 

@@ -23,7 +23,7 @@ import java.util.Map;
 /**
  * 修改mappedStatements为FirstStrictMap以允许重复的key。
  *
- * @author Chanedi
+ * @author com.zdmoney.zdhd
  */
 public class Configuration extends org.apache.ibatis.session.Configuration {
 

@@ -3,7 +3,7 @@ package com.zdmoney.zdhd.util;
 import java.io.File;
 
 /**
- * @author Chanedi
+ * @author com.zdmoney.zdhd
  */
 public class FileUtils {
 

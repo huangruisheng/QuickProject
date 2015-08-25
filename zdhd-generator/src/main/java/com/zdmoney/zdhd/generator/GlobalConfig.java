@@ -12,7 +12,7 @@ import java.io.File;
 import java.io.IOException;
 
 /**
- * @author Chanedi
+ * @author com.zdmoney.zdhd
  * 单例
  */
 public final class GlobalConfig {

@@ -58,7 +58,7 @@ import static org.springframework.util.StringUtils.tokenizeToStringArray;
  * 修改了Configuration和XMLConfigBuilder(依赖了Configuration)。
  *
  * @see Configuration
- * @author Chanedi
+ * @author com.zdmoney.zdhd
  */
 public class SqlSessionFactoryBean implements FactoryBean<SqlSessionFactory>, InitializingBean, ApplicationListener<ApplicationEvent> {
 

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by chanedi on 2014/12/19.
+ * Created by com.zdmoney.zdhd on 2014/12/19.
  */
 public class QueryParamBuilder {
 

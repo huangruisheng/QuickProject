@@ -22,7 +22,7 @@ import java.util.Properties;
 /**
  * 将sortList加入sql。
  *
- * @author Chanedi
+ * @author com.zdmoney.zdhd
  */
 @Intercepts({ @Signature(type = Executor.class, method = "query", args = { MappedStatement.class, Object.class, RowBounds.class, ResultHandler.class}) })
 public class SortListInterceptor implements Interceptor {

@@ -5,7 +5,7 @@ import lombok.Data;
 import java.util.Date;
 
 /**
- * Created by chanedi on 2014/12/26.
+ * Created by com.zdmoney.zdhd on 2014/12/26.
  */
 @Data
 public abstract class EntityWithTime extends Entity {

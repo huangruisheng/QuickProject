@@ -37,7 +37,7 @@ import java.io.Serializable;
 
  }
  *
- * @author Chanedi
+ * @author com.zdmoney.zdhd
  */
 @Data
 public abstract class Entity implements Serializable {

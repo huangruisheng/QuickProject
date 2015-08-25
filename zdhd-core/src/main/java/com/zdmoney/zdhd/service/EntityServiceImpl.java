@@ -13,7 +13,7 @@ import java.lang.reflect.ParameterizedType;
 import java.util.List;
 
 /**
- * Created by Chanedi
+ * Created by com.zdmoney.zdhd
  */
 public abstract class EntityServiceImpl<T extends Entity> implements EntityService<T> {
 

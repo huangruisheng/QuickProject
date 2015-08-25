@@ -5,7 +5,7 @@ import junit.framework.TestCase;
 import org.junit.Test;
 
 /**
- * @author Chanedi
+ * @author com.zdmoney.zdhd
  */
 public class GeneratorTest extends TestCase {
 

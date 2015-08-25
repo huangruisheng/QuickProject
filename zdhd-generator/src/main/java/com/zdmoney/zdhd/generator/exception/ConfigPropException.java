@@ -1,7 +1,7 @@
 package com.zdmoney.zdhd.generator.exception;
 
 /**
- * @author Chanedi
+ * @author com.zdmoney.zdhd
  */
 public class ConfigPropException extends ConfigException {
 

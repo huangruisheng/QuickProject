@@ -10,7 +10,7 @@ import java.util.Set;
 /**
  * net.sf.json.JSONArray工具类。
  * 
- * @author Chanedi
+ * @author com.zdmoney.zdhd
  */
 public class JSONUtils {
 

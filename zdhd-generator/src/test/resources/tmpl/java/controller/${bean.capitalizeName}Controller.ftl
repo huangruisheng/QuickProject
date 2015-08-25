@@ -1,8 +1,8 @@
 package ${config.javaPackageName}${module.name}.controller;
 
-import chanedi.action.view.TableView;
-import chanedi.service.EntityService;
-import chanedi.util.JSONUtils;
+import com.zdmoney.zdhd.action.view.TableView;
+import com.zdmoney.zdhd.service.EntityService;
+import com.zdmoney.zdhd.util.JSONUtils;
 import ${config.javaPackageName}${module.name}.base.controller.BaseController;
 import ${config.javaPackageName}${module.name}.model.${bean.capitalizeName};
 import ${config.javaPackageName}${module.name}.service.${bean.capitalizeName}Service;

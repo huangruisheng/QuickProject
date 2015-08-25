@@ -23,7 +23,7 @@ import java.lang.reflect.Method;
 import java.util.*;
 
 /**
- * @author Chanedi
+ * @author com.zdmoney.zdhd
  */
 public class BaseSQLProvider<T extends Entity> {
 

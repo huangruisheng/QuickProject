@@ -8,7 +8,7 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.List;
 
 /**
- * Created by Chanedi
+ * Created by com.zdmoney.zdhd
  */
 //@Transactional(rollbackFor = { Exception.class }, readOnly = true)
 public interface EntityService<T extends Entity> {

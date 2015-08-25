@@ -3,7 +3,7 @@ package com.zdmoney.zdhd.dao.complexQuery;
 import lombok.Getter;
 
 /**
- * @author Chanedi
+ * @author com.zdmoney.zdhd
  */
 public class NoValueQueryParam extends CustomQueryParam {
 

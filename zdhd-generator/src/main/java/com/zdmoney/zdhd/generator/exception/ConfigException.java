@@ -1,7 +1,7 @@
 package com.zdmoney.zdhd.generator.exception;
 
 /**
- * Created by chanedi on 2015/1/6.
+ * Created by com.zdmoney.zdhd on 2015/1/6.
  */
 public class ConfigException extends Exception {
 

@@ -9,7 +9,7 @@ import org.apache.ibatis.annotations.*;
 import java.util.List;
 
 /**
- * @author Chanedi
+ * @author com.zdmoney.zdhd
  */
 public interface EntityDAO<T extends Entity> {
 

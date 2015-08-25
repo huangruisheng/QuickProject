@@ -14,7 +14,7 @@ import java.util.Set;
 
 /**
  * 非单例。
- * @author Chanedi
+ * @author com.zdmoney.zdhd
  */
 @Data
 public final class TemplateRootConfig {

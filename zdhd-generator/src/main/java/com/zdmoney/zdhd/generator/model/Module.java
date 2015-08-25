@@ -18,7 +18,7 @@ import java.io.IOException;
 import java.util.Collection;
 
 /**
- * @author Chanedi
+ * @author com.zdmoney.zdhd
  */
 public class Module {
 

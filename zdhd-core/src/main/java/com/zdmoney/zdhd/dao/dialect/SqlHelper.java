@@ -1,7 +1,7 @@
 package com.zdmoney.zdhd.dao.dialect;
 
 /**
- * Created by Chanedi
+ * Created by com.zdmoney.zdhd
  */
 public class SqlHelper {
 

@@ -13,7 +13,7 @@ import java.util.Properties;
 /**
  * 将分页参数加入cache条件。不使用mybatis的cache时可不使用此拦截器。
  *
- * @author Chanedi
+ * @author com.zdmoney.zdhd
  */
 @Intercepts({ @Signature(type = Executor.class, method = "query", args = { MappedStatement.class, Object.class, RowBounds.class, ResultHandler.class}) })
 public class RowBoundsInterceptor implements Interceptor {

@@ -19,7 +19,7 @@ import java.io.*;
 import java.util.*;
 
 /**
- * @author Chanedi
+ * @author com.zdmoney.zdhd
  */
 public class FilesGenerator {
 

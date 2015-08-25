@@ -32,7 +32,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by chanedi on 2014/12/22.
+ * Created by com.zdmoney.zdhd on 2014/12/22.
  */
 public abstract class EntityController {
 

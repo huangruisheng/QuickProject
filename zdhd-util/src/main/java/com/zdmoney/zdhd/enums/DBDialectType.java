@@ -1,7 +1,7 @@
 package com.zdmoney.zdhd.enums;
 
 /**
- * @author Chanedi
+ * @author com.zdmoney.zdhd
  */
 public enum DBDialectType {
 

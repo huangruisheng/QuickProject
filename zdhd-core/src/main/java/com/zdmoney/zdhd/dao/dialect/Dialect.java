@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * 数据库方言。
  * Created by unknown
- * Modify by Chanedi
+ * Modify by com.zdmoney.zdhd
  */
 public abstract class Dialect {
 

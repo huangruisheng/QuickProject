@@ -5,7 +5,7 @@ import com.zdmoney.zdhd.dao.complexQuery.Sort;
 import java.util.List;
 
 /**
- * @author Chanedi
+ * @author com.zdmoney.zdhd
  */
 public class H2Dialect extends Dialect {
 

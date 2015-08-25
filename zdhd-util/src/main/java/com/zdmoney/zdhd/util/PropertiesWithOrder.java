@@ -6,7 +6,7 @@ import java.util.Properties;
 
 /**
  * 该Properties能记录条目的先后顺序，见{@link PropertiesWithOrder#keysInOrder()}
- * @author Chanedi
+ * @author com.zdmoney.zdhd
  */
 public class PropertiesWithOrder extends Properties {
 

@@ -1,7 +1,7 @@
 package com.zdmoney.zdhd.util;
 
 /**
- * @author Chanedi
+ * @author com.zdmoney.zdhd
  */
 public class StringUtils extends org.apache.commons.lang3.StringUtils {
 

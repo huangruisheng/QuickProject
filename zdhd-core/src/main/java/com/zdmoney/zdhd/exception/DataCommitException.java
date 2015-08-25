@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * 表示数据提交失败。
  *
- * @author Chanedi
+ * @author com.zdmoney.zdhd
  */
 public class DataCommitException extends RuntimeException {
 

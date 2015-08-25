@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * Created by unknown
- * Modify by Chanedi
+ * Modify by com.zdmoney.zdhd
  */
 public class OracleDialect extends Dialect {
 

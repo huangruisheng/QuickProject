@@ -8,7 +8,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * Created by chanedi on 2015/1/19.
+ * Created by com.zdmoney.zdhd on 2015/1/19.
  */
 public class TimeEditor extends PropertyEditorSupport {
 

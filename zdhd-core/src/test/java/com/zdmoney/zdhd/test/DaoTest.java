@@ -16,7 +16,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author Chanedi
+ * @author com.zdmoney.zdhd
  */
 public class DaoTest extends BaseTest {
 

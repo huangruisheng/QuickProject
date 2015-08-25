@@ -5,7 +5,7 @@ import lombok.Getter;
 import lombok.Setter;
 
 /**
- * @author Chanedi
+ * @author com.zdmoney.zdhd
  */
 public class Property {
 

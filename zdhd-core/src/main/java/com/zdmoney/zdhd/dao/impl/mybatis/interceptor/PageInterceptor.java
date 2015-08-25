@@ -19,7 +19,7 @@ import java.util.Properties;
 /**
  * 支持物理分页。
  * Created by unknown
- * Modify by Chanedi
+ * Modify by com.zdmoney.zdhd
  */
 @Intercepts({ @Signature(type = StatementHandler.class, method = "prepare", args = { Connection.class }) })
 public class PageInterceptor implements Interceptor {

@@ -1,7 +1,7 @@
 package com.zdmoney.zdhd.action.view;
 
 /**
- * Created by chanedi on 2014/6/27.
+ * Created by com.zdmoney.zdhd on 2014/6/27.
  */
 public class ComparisonTranslator {
 

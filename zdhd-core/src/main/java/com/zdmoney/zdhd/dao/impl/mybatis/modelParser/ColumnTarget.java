@@ -1,7 +1,7 @@
 package com.zdmoney.zdhd.dao.impl.mybatis.modelParser;
 
 /**
- * @author Chanedi
+ * @author com.zdmoney.zdhd
  */
 public enum ColumnTarget {
 

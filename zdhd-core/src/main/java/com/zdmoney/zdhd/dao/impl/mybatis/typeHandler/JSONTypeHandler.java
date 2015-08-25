@@ -10,7 +10,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 /**
- * Created by chanedi on 2015/1/5.
+ * Created by com.zdmoney.zdhd on 2015/1/5.
  */
 public abstract class JSONTypeHandler<E extends JSON> extends BaseTypeHandler<E> {
 

@@ -3,7 +3,7 @@ package com.zdmoney.zdhd.action.view;
 import java.util.List;
 
 /**
- * Created by chanedi on 2014/12/22.
+ * Created by com.zdmoney.zdhd on 2014/12/22.
  */
 public interface TableView {
 

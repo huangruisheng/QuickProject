@@ -8,7 +8,7 @@ import java.util.Map;
  * org.mybatis:mybatis:3.2.3
  * org.apache.ibatis.session.Configuration$StrictMap
  *
- * @author Chanedi
+ * @author com.zdmoney.zdhd
  */
 public class FirstStrictMap<V> extends HashMap<String, V> {
 

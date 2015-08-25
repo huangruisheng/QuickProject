@@ -22,7 +22,7 @@ import java.util.Properties;
 
 /**
  * 单例。
- * @author Chanedi
+ * @author com.zdmoney.zdhd
  */
 @NotThreadSafe
 public final class PropertyTypeContext {

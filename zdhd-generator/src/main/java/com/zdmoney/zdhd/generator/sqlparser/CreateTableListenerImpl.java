@@ -17,7 +17,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * @author Chanedi
+ * @author com.zdmoney.zdhd
  */
 @NotThreadSafe
 public class CreateTableListenerImpl extends CreateTableBaseListener {
