@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class ${bean.capitalizeName}FacadeService implements I${bean.capitalizeName}FacadeService {
 
-    @Resource
+    @Autowired
     private I${bean.capitalizeName}Service ${bean.name}Service;
 
 }
